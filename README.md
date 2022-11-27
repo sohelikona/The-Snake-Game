@@ -1,2 +1,2 @@
-# The-Snake-Game
+# TheSnakeGame.github.io
 This is a snake game made with Javascript
